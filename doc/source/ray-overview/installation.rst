@@ -134,8 +134,8 @@ You can install the nightly Ray wheels via the following links. These daily rele
            * - `Windows Python 3.10 (amd64)`_
            * - `Windows Python 3.11 (amd64)`_
            * - `Windows Python 3.12 (amd64)`_
-           * - `Windows Python 3.13 (amd64)`_ (beta)
-           * - `Windows Python 3.14 (amd64)`_ (beta)
+           * - `Windows Python 3.13 (amd64)`_
+           * - `Windows Python 3.14 (amd64)`_
 
 .. note::
 
